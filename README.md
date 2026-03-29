@@ -203,3 +203,8 @@ These analyses help uncover:
 - SQL
 - Databricks
 - Data Visualization
+
+# Dashboard
+
+View the interactive Tableau Dashboard here: [Programmatic Campaign Analysis](https://public.tableau.com/app/profile/prajjwal.dewangan/viz/AdCampaignAnalysis_17747953153400/DesktopDashboard
+)
